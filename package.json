@@ -1,8 +1,9 @@
 {
-  "name": "mdc-react",
+  "name": "material-design-components-react",
   "description": "Modular and customizable Material Design UI components for the web implemented in React.js",
   "license": "MIT",
-  "private": true,
+  "private": false,
+  "author": "Mario Jerkovic",
   "repository": {
     "type": "git",
     "url": "https://github.com/mario-jerkovic/mdc-react"
