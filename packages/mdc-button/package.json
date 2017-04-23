@@ -1,7 +1,7 @@
 {
   "name": "@mdc-react/button",
   "description": "React wrapper of @material/button",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "lib/index",
   "repository": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@material/button": "^0.3.1",
-    "@mdc-react/ripple": "^1.0.1",
+    "@mdc-react/ripple": "^1.0.2",
     "classnames": "^2.2.5",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"

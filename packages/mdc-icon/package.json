@@ -1,7 +1,7 @@
 {
   "name": "@mdc-react/icon",
   "description": "React wrapper of @material/icon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "lib/index",
   "repository": {
