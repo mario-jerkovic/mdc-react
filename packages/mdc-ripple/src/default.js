@@ -6,7 +6,7 @@ import {
 } from '@material/ripple/dist/mdc.ripple';
 import {
   NativeDOM
-} from '@material-react/base';
+} from '@mdc-react/base';
 import {
   Map as ImmutableMap,
   Set as ImmutableSet,

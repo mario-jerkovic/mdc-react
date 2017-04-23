@@ -6,7 +6,7 @@ import {
 } from '@material/drawer/dist/mdc.drawer';
 import {
   NativeDOM
-} from '@material-react/base';
+} from '@mdc-react/base';
 import {
   Map as ImmutableMap,
   Set as ImmutableSet,

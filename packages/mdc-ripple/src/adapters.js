@@ -1,10 +1,10 @@
 import {
-  getMatchesProperty,
-  supportsCssVariables,
-} from '@material/ripple/util';
-import {
   OrderedSet as ImmutableOrderedSet,
 } from 'immutable';
+import {
+  getMatchesProperty,
+  supportsCssVariables,
+} from './util';
 
 const MATCHES = getMatchesProperty(HTMLElement.prototype);
 

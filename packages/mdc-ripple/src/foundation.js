@@ -1,6 +1,6 @@
 import {
   BaseFoundation,
-} from '@material-react/base';
+} from '@mdc-react/base';
 import {
   RippleAdapter,
 } from './adapters';

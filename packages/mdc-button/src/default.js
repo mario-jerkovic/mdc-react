@@ -2,7 +2,7 @@ import React from 'react';
 import classnames from 'classnames';
 import {
   Ripple
-} from '@material-react/ripple';
+} from '@mdc-react/ripple';
 import '@material/button/dist/mdc.button.css';
 
 import {

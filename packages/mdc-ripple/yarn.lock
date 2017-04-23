@@ -17,9 +17,9 @@
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/@material/theme/-/theme-0.1.4.tgz#d094bc99eff7535eac4650bacadfc10faaba3792"
 
-"@mdc-react/base@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@mdc-react/base/-/base-1.0.0.tgz#b0ed2ace2c5c01dddf25d88084938dc220a49b1d"
+"@mdc-react/base@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@mdc-react/base/-/base-1.0.2.tgz#95b59907a0f3329decdabe6c67d785e0f549b33f"
   dependencies:
     react "^15.4.2"
     react-dom "^15.4.2"

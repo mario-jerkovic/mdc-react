@@ -1,4 +1,4 @@
-import { BaseFoundation } from '@material-react/base';
+import { BaseFoundation } from '@mdc-react/base';
 import {
   TemporaryDrawerAdapter,
   DrawerAdapter,

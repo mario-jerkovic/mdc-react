@@ -1,7 +1,7 @@
 import React from 'react';
 import {
   Ripple
-} from '@material-react/ripple';
+} from '@mdc-react/ripple';
 import '@material/checkbox/dist/mdc.checkbox.css';
 
 import {
