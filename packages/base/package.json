@@ -1,7 +1,7 @@
 {
   "name": "@mdc-react/base",
   "description": "Core library of @mdc-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index",
   "repository": {

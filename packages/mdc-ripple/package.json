@@ -1,7 +1,7 @@
 {
   "name": "@mdc-react/ripple",
   "description": "React wrapper of @material/ripple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index",
   "repository": {
@@ -9,8 +9,8 @@
     "url": "https://github.com/mario-jerkovic/mdc-react"
   },
   "dependencies": {
-    "@mdc-react/base": "^1.0.0",
     "@material/ripple": "^0.5.0",
+    "@mdc-react/base": "^1.0.1",
     "classnames": "^2.2.5",
     "immutable": "^3.8.1",
     "react": "^15.4.2",

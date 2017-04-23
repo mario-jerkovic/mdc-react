@@ -1,7 +1,7 @@
 {
   "name": "@mdc-react/toolbar",
   "description": "React wrapper of @material/toolbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index",
   "repository": {

@@ -1,7 +1,7 @@
 {
   "name": "@mdc-react/checkbox",
   "description": "React wrapper of @material/checkbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index",
   "repository": {
@@ -9,10 +9,10 @@
     "url": "https://github.com/mario-jerkovic/mdc-react"
   },
   "dependencies": {
-    "@mdc-react/base": "^1.0.0",
-    "@mdc-react/ripple": "^1.0.0",
     "@material/animation": "^0.1.4",
     "@material/checkbox": "^0.2.2",
+    "@mdc-react/base": "^1.0.1",
+    "@mdc-react/ripple": "^1.0.1",
     "classnames": "^2.2.5",
     "immutable": "^3.8.1",
     "react": "^15.4.2",
