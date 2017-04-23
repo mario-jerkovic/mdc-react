@@ -6,7 +6,7 @@
   "main": "lib/index",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/mario-jerkovic/mdc-react"
   },
   "dependencies": {
     "@mdc-react/ripple": "^1.0.0",
