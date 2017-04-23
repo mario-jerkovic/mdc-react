@@ -128,7 +128,6 @@ Temporary Items
 # App specific
 build/
 lib/
-docs/
 
 # Npm
 .npmrc
