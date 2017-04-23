@@ -1,0 +1,6 @@
+/build/**
+/docs/**
+/tmp/**
+**/node_modules
+**/lib
+test.js

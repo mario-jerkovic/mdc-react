@@ -1,0 +1,39 @@
+{
+  "name": "mdc-react",
+  "description": "Modular and customizable Material Design UI components for the web implemented in React.js",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build --stream",
+    "lint": "DEBUG=eslint:cli-engine eslint packages",
+    "prepublish": "npm run lint && npm run build",
+    "publish": "lerna publish --skip-temp-tag --conventional-commits"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.5.0",
+    "babel-eslint": "^7.1.0",
+    "babel-plugin-transform-class-properties": "^6.23.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-polyfill": "^6.5.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-2": "^6.5.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-babel": "^4.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.6.0",
+    "lerna": "^2.0.0-rc.3"
+  }
+}

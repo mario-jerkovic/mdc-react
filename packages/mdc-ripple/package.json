@@ -1,0 +1,31 @@
+{
+  "name": "@mdc-react/ripple",
+  "description": "React wrapper of @material/ripple",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "lib/index",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "@mdc-react/base": "^1.0.0",
+    "@material/ripple": "^0.5.0",
+    "classnames": "^2.2.5",
+    "immutable": "^3.8.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "shelljs": "^0.7.7",
+    "shx": "^0.2.2"
+  },
+  "scripts": {
+    "build": "NODE_ENV=producation babel ./src --out-dir ./lib --ignore spec.js",
+    "clean": "shx rm -rf lib/",
+    "prepublish": "npm run build",
+    "postpublish": "npm run clean"
+  }
+}

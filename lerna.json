@@ -1,0 +1,15 @@
+{
+  "lerna": "2.0.0-beta.38-38-g8c7deb7",
+  "packages": [
+    "packages/*"
+  ],
+  "commands": {
+    "publish": {
+      "ignore": [
+        "docs/*"
+      ]
+    }
+  },
+  "version": "independent",
+  "npmClient": "yarn"
+}
